@@ -1,7 +1,8 @@
 # Maple-Innovations
 
 ## General Info
-### Using React as our primary framework, our team of 3 engineers rebuilt a frontend retail web portal, Maple Innovations, based on client-requested functionalities on a short timeline. Our goals were to modernize functionality and improve the user experience with a more navigable and intelligent interface. I built out an API from scratch to support the backend using MongoDB, Express, and Node.js (see System Design repository below).
+### Using React as our primary framework, our team of 3 engineers rebuilt a frontend retail web portal, Maple Innovations, based on client-requested functionalities on a short timeline. Our goals were to modernize functionality and improve the user experience with a more navigable and intelligent interface. 
+I built out an API from scratch to support the backend using MongoDB, Express, and Node.js (see System Design repository).
 
 ### ✨ Demo
 
